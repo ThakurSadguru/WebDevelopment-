@@ -8,4 +8,4 @@ $sum=0; $rem=0;
    $num=$num/10;  
   }  
  echo "Sum of digits 14597 is $sum";  
- ?> 
+ ?>
